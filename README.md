@@ -7,11 +7,11 @@
 
 # Info
 
-An application called "News App" that I developed while learning react native. Photos from the application are below.
+An application called "News App" that I developed while learning react native. Photos from the application are above.
 
 # TR
 
-React native öğrenirken geliştirmiş olduğum "News App" isimli uygulama. Uygulamadan fotoğraflar aşağıda yer almaktadır.
+React native öğrenirken geliştirmiş olduğum "News App" isimli uygulama. Uygulamadan fotoğraflar yukarıda yer almaktadır.
 
 # Setup
 
